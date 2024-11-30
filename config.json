@@ -1,0 +1,4 @@
+{
+    "jira_base_url": "https://issues.apache.org/jira/rest/api/2/",
+    "project_key": "HADOOP"
+}
